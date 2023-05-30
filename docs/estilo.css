@@ -10,8 +10,8 @@ h2 {
 h1 {
     width: 300px;
     border: 30px
-    border-color=beige
-    border-style= solid
+    border-color=beige;
+    border-style: solid;
 }
 body  {
 
